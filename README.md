@@ -1,5 +1,5 @@
 # Colorful-Plot
-colorful-plot implemented by python and R, this repository aims to make it easier to draw with code, and provide an end-to-end solution for visualizing, each file in this directory exists independently and provides a wealth of functionality and all of these will be improved in the future.  
+colorful-plot implemented by python and R, this repository aims to make it easier to visualize with code, and provide an end-to-end solution for visualizing, each file in this directory exists independently and provides a wealth of functionality and all of these will be improved in the future.  
 These files do not need to be installed, they can be used directly. If you think this project is greatand helpful, please give me a star, thank you. That's important to me.  
 I am a post-graduate student in the field of AI+ drug discovery (Of course, I am interested in the funny algorithm that implemented in every industries), China, if you are interested in this project or my research direction, please send an email to the following email: 3039157629@qq.com.  
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
